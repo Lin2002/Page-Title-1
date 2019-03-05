@@ -18,7 +18,8 @@ p{
     height:210px;
     }
 #im2{
-    width:160px;
+
+    width:190px;
     height:210px;
     }
 #im3{
@@ -28,4 +29,7 @@ p{
 #im4{
     width:160px;
     height:210px;
+    }
+h1{
+    padding-bottom:70px;
     }
